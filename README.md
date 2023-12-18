@@ -1,13 +1,9 @@
-# 武汉大学毕业论文 LaTeX 模板
+# 开箱即用的武汉大学研究生课程报告 LaTeX 模板
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Last Commit](https://img.shields.io/github/last-commit/whutug/whu-thesis.svg)](https://github.com/whutug/whu-thesis/commits/)
-[![Overleaf](https://img.shields.io/badge/overleaf-whuthesis-green.svg)](https://www.overleaf.com/latex/templates/wuhan-university-latex-undergraduate-thesis-template/kpystysgbgmr)
-[![](https://github.com/whutug/whu-thesis/workflows/LaTeX%20Compile/badge.svg)](https://github.com/whutug/whu-thesis/actions)
 
-本项目为武汉大学毕业论文 LaTeX 模板，支持本科生、硕士与博士的论文编写。
 
-\***由于模板更新频繁，请确保使用 whu-thesis 的最新版本，并在使用之前将所有宏包更新至最新。**
+本项目为武汉大学研究生课程报告 LaTeX 模板，支持研究生的课程报告编写（换下cls文件里封面几个字，本科博士也可以用）。
 
 根据[《武汉大学本科生毕业论文（设计）书写印制规范》](https://github.com/whutug/whu-thesis/files/4638713/default.pdf)、[武汉大学博士学位论文撰写及印制规格的规定](https://gs.whu.edu.cn/info/1026/1100.htm)、[武汉大学硕士学位论文印制规定](https://gs.whu.edu.cn/info/1026/1096.htm)编写，力求合规，简洁，易于实现，用户友好。
 
@@ -50,6 +46,8 @@
 
 关于模板使用、参考文献引用等常见问题请移步 [Wiki](https://github.com/whutug/whu-thesis/wiki)
 
+**模板在texlive2023下编译测试通过**
+
 ## 问题反馈
 
 如果在使用中发现 *bug*，或遇到了「**与预期效果不一致**」的情况，请按照以下步骤操作：
@@ -72,11 +70,10 @@
 
 ## 后续计划
 
-* 支持打印模式、课程报告模式。
-
 欢迎提交 Pull Request。
 
 ## 致谢
+❤[本校WHU-TUG的毕业论文模板项目](https://github.com/whutug/whu-thesis)❤
 
 [黄正华老师的模板](http://aff.whu.edu.cn/huangzh/)
 <details>

@@ -10,7 +10,7 @@
 ## 样例展示
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/5097752/55679059-f250d300-5936-11e9-8dfe-937a64a0c6bf.png" width="800px">
+  <img src="assets/6910302b8f18b2901c2625ef3f86f5916442ce771c24c3fa95f748b6dc4ce2a0.png" width="800px">
 </p>
 
 正文样例可以参照 [whu-thesis-demo](whu-thesis-demo.pdf)
